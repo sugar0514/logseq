@@ -178,7 +178,7 @@ public:: true
 		- 营收：LP手续费，产品付费盈利，广告盈利等
 		- 支出：40%回购代币PANDA，10%质押token者分红，5%买$People资助给PeopleDAO，45%买数字资产存着。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">社区成员主要激励方式</p>
-		- 对产出者发放代币奖励
+		- 对工作人员发放代币奖励及NFT白名单
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
 		- PandaDAO目前和其他GameFi项目合作较少，可以试着谈我们给WL，他们发推宣传的模式
 		- 创始人野心很大，目前在熊市中也不确定方向，所以各个方向的项目都在尝试，
