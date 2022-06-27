@@ -227,7 +227,8 @@ public:: true
 			- [提案内容](https://snapshot.org/#/panda-dao.eth/proposal/0xf9410adbf99acc5c5bca8fe827f35129c55e5e81e85c2f19457269116c0ac7b3)
 		- 4月17日， VC小组启动。
 		- 4月30日，销毁了panda币合约的owner权限，确保了panda币永不增发。
-		- 5月9日
+		- 5月9日，启动第二个NFT项目ERC721P的首次空投。
+		- 5月16日，上线了PANDA币的staking
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 发行的代币PANDA从0.013跌到0.003，官方承诺七八月会以0.005的价格无限额回购
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
