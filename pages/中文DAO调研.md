@@ -106,9 +106,10 @@ public:: true
 		- 22年2月，开始转型为社区成员共创的研究型DAO
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 推特运作方式：官方号发布周报和高质量长文，贡献者个人号发布日报和短消息
-- ### GWG DAO
-	- 简介：专注于GameFi领域的资讯型DAO，去年12月成立，是SnapFinger的子社区。
-	- 基础数据：
+- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> GWG DAO</p>
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简介</p>
+		- 专注于GameFi领域的资讯型DAO，去年12月成立，是SnapFinger的子社区。
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
 		- Discord人数：没有单独DS，在SF的DS中有一个专门的分区
 		- Discord活跃度(最近一周平均日聊天数)：没有单独的聊天频道
 		- Twitter人数：15.9K
