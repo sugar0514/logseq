@@ -181,7 +181,7 @@ public:: true
 		- 对全职工作人员和兼职产出者发放代币奖励或NFT白名单。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
 		- PandaDAO目前和其他GameFi项目合作较少，可以试着谈我们给WL，他们发推宣传的模式
-			- To think：
+			- To think：有没有更新颖的方式？
 		- 创始人野心很大，目前在熊市中也不确定方向，所以各个方向的项目都在尝试，
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
