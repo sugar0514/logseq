@@ -200,4 +200,5 @@ public:: true
 		- 涉及的方向比较多，本身发了代币(承诺会回购)，一方面在做资讯平台[PandaMedia](https://beta.pandadao.info/)，一方面打算发NFT
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
 		- 非常去中心化，一切决策由社区提案并投票决定
-		- 募资是
+		- 募资时成功营造FOMO氛围，轻松募集500E
+		- 创始人的推特形象维持得很好，最近发言都显得格局很大
