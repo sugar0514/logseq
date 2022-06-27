@@ -231,7 +231,8 @@ public:: true
 		- 5月16日，上线了PANDA币的staking
 		- 5月20日，正式成立了6人的市场运营团队。
 		- 5月24日，与Wuhu动画人空间建立合作，预告后续会PandaDAO的NFT动画化及商业化开发
-		- 5月25日，提案通道对所有panda持币者开放
+		- 5月25日，提案通道对所有panda持币者开放。
+		- 6月15日，宣布会在七八月以0.005刀的价格回购panda币
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 发行的代币PANDA从0.013跌到0.003，官方承诺七八月会以0.005的价格无限额回购
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
