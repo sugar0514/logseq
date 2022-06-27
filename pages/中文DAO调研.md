@@ -160,19 +160,20 @@ public:: true
 		- DS上的信息虽然杂乱，但质量还不错，有问题在频道问，都会有人解答。可以自己把信息归档整理一下，作为一个信息源。
 - ### PandaDAO
   background-color:: #793e3e
-	- 简单评价：以代币
-	- 基础数据：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
+		- 以代币
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
 		- Discord人数：无法查看 (在线人数五百多)
 		- Discord活跃度(最近一周平均日聊天数)：50+(但以讨论币价为主)
 		- Twitter人数：31000
 		- Twitter互动数：50+
 		- 官网：https://beta.pandadao.info/
 		- [白皮书](https://mirror.xyz/pansight.eth/hGA28-w9anSXsWgh7CqZYk_EFbfWE985txsKPvD6L4k)
-	- 代币$PANDA分配：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">代币$PANDA分配</p>
 		- 40%用于分给团队成员，5%用于资助PeopleDAO，5%用于建立LP池，50%用于DAO融资。
 			- 团队成员：Leader及部分管理员为全职，会领工资及Token期权奖励
 			- DAO融资：在JuiceBOX募资500E，1E对应50万代币，用途主要是网站的服务器费用和安全审计等
-	- 日常营收支出
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">日常营收支出
 		- 营收：LP手续费，产品付费盈利，广告盈利等
 		- 支出：40%回购代币PANDA，10%质押token者分红，5%买$People资助给PeopleDAO，45%买数字资产存着。
 	- 社区成员主要激励方式：对产出者发放代币奖励
