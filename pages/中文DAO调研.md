@@ -192,7 +192,7 @@ public:: true
 					- 信息监控平台“PandaInsight"：[半成品](https://beta.pandadao.info/)
 						- 这里面有什么合作机会呢？
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
-		- 了解社区动态，学习DAO
+		- 算是比较重视组织架构和践行去中心化的DAO，可以从中学习DAO的组织
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
