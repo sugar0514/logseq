@@ -13,7 +13,7 @@ public:: true
 - ### W Labs 瓜田实验室
   background-color:: #793e3e
   template:: DAO research
-	- <p style="color:#FA8A62; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价：</p>
+	- <p style="color:#EA7876; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价：</p>
 		- 专注于GameFi领域的处于快速上升期的资讯型DAO，合作可能性较大。
 	- <p style="color:#FA8A62; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据：</p>
 		- Discord人数：2698
