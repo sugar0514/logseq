@@ -1,0 +1,2 @@
+- [emoji pedia](https://emojipedia.org/)
+- https://emojixd.com/x7px

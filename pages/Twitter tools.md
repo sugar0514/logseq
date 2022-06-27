@@ -1,0 +1,31 @@
+- [茶茶灯](https://twitter.com/Nicole58004351/status/1537039171914956800?s=20&t=4l-d-wSgPi7i7uRsq-zQsw)
+	- **假粉丝数检测(检测结果×1.5=真实数量)**
+		- https://www.twitteraudit.com
+	- **retweet 抽奖**
+		- https://twitterpicker.com/
+		- 可以自动读取所有 retweet 的用户，自定义人数等参数，自动筛选抽奖。抽出后可以一键将获奖名单同步到 twitter，带有 Twitter 的专用链接以示公正。
+		- 缺点是只能通过 Retweet 名单来抽奖。Retweet 大于10人才能参与。
+	- **识别推上的NFT**
+		- https://www.nftinspect.xyz/rank
+		- 可以直接搜哪些人用哪种NFT做了头像
+	- **Twitter社交指数分析**
+		- https://twitterscan.com
+		- 可以分析早期项目推特互动中的含鲸量
+	- **Twitter指令(进阶搜索)**
+		- [区块印象](https://twitter.com/BlockTrack1/status/1513362879504056324?s=20&t=_gbn0_0Io8gqXHJncnhAfw)
+		- 用来找free mint
+	- **推特流量分析**
+		- https://analytics.twitter.com
+		- 不仅提供了大量推文数据，而且提供了大量粉丝数据，如按百分比细分的粉丝感兴趣的主题。 就能根据他们的喜好写推文。
+		- 内容与粉丝越相关，参与的可能性越大。
+	- **推特自动化配置工具**
+		- https://www.socialoomph.com/
+		- 定期推文、自动向新关注者发DM、自动关注新粉丝、RSS订阅Twitter等
+	- **长thread自动生成长文**
+		- @threadreaderapp并回复unroll
+	- **邮件自动提醒**
+		- https://twilert.com/
+		- 只要有人在Twitter上提及关键字，就会自动发送邮件提醒你。
+		- 比较适合项目方或大V做舆情管理。
+	-
+		-

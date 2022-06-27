@@ -1,0 +1,9 @@
+- Dyno
+	- #进服验证 单击verify即可
+- Whop Bot
+	- #验证链上资产
+- time code
+	- https://discord.com/developers/docs/reference#message-formatting-timestamp-styles
+- QuizBot
+	- 在服务器进行答题比赛，可以定制题库，也可以用已有题库
+	- https://quizbot.xyz/

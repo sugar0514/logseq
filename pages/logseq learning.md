@@ -1,0 +1,18 @@
+- 加入当前时间：按“/”输入time  [[Jun 7th, 2022]]
+- 加入今天的日期：按“/”输入date，选today  [[Jun 7th, 2022]]
+- 改变字体样式(CSS)： [[Jun 7th, 2022]]
+	- "<p style="样式内容">红色</p>"
+	- 颜色：color:#颜色编号
+	- 字号：font-size:??px
+	- 字体：font-family:英文字体名
+	- 粗细：font-weight:bold/normal
+	- 行间距：line-height:??px
+	- 高亮颜色：background:#颜色编号
+	- eg:<p style="color:#FA8A62;font-size:30px;font-family:Chalkboard;font-weight:bold;line-height:50px;background:#000000">Do not go gentle into that good night!</p>
+	- <p style="color:#FA8A62; font-size:30px; font-family: Chalkboard; font-weight:bold; line-height:50px; background:#000000">Do not go gentle into that good night!</p>
+- 添加模板：右键单击小圆点，存为模板 [[Jun 7th, 2022]]
+- markdown基本语法： [[Jun 7th, 2022]] 
+  https://zhuanlan.zhihu.com/p/412891207
+-
+-
+-
