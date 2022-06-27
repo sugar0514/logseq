@@ -162,7 +162,7 @@ public:: true
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> PandaDAO</p>
   background-color:: #793e3e
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
-		- 更像一家去中心化公司，募资后开发各类WEB3项目，目前进行中的项目有数据监测工具PandaSight和NFT项目ERC721P。靠发行代币募资来支持项目运行。
+		- 更像一家去中心化公司，募资后开发各类WEB3项目，目前进行中的项目有数据监测工具PandaInsight和NFT项目ERC721P。靠发行代币募资来支持项目运行。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
 		- Discord人数：无法查看 (在线人数五百多)
 		- Discord活跃度(最近一周平均日聊天数)：50+(但以讨论币价和即将mint的NFT为主)
@@ -181,7 +181,7 @@ public:: true
 		- 对全职工作人员和兼职产出者发放代币奖励或NFT白名单。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
 		- PandaDAO目前和其他GameFi项目合作较少，可以试着谈我们给WL，他们发推宣传的模式
-			-
+			- To think：
 		- 创始人野心很大，目前在熊市中也不确定方向，所以各个方向的项目都在尝试，
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
