@@ -203,7 +203,7 @@ public:: true
 		- **共建工具Dework：** [web3赏金平台DeWork](https://app.dework.xyz/bounties)，既可以方便地在自己社区内招募志愿者完成工作，也可以通过发布公开赏金任务，直接从Dework平台吸引流量。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 		- 成立于2022年1月，是peopleDAO的subDAO
-		-
+		- 2月21日开始在JuiceBox
 		- 4月初发行代币，半个月内在JuiceBox上募资1929E (原计划募资500E)
 		-
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
