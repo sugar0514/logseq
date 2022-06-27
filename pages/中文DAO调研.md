@@ -206,7 +206,8 @@ public:: true
 		- 2月21日开始在JuiceBox上融资，到4月4日，募到500E
 		- 3月17日，Panda Media Beta上线
 		- 4月4日宣布募资额达标(500E)，将在24小时后关闭通道。4月5日募资额冲到1530E。
-		- 不知何故，在原定关闭时间后，募资额继续增长，最终定格在4月7日的1929E。
+		- 不知何故，在原定关闭时间后，募资额继续增长，最终定格在4月7日的1929E。(有可能是因为开了7天的退款通道，结果更多人打款)
+		- 4月7日，代币PANDA在juiceBOX上发行。
 		-
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 4月初发行过创世NFT“Panda Insight"
