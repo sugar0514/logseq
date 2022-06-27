@@ -208,6 +208,8 @@ public:: true
 			- To think：募资本身也是宣传方式，现在可以利用哪些渠道？需要准备哪些物料？
 				- itch.io
 				- Patreon
+				- 投资型DAO
+				- JuiceBox
 				- and?
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 		- 成立于2022年1月，是peopleDAO的subDAO
