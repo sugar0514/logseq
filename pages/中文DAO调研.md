@@ -158,7 +158,7 @@ public:: true
 		- 22年4月底开始，DS逐渐放弃运营，只是把优质文章和工具转发到DS，DS变得更像未整理的资料箱。
 	- Other notes:
 		- DS上的信息虽然杂乱，但质量还不错，有问题在频道问，都会有人解答。可以自己把信息归档整理一下，作为一个信息源。
-- ### PandaDAO
+- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> PandaDAO
   background-color:: #793e3e
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
 		- 以代币
@@ -173,17 +173,18 @@ public:: true
 		- 40%用于分给团队成员，5%用于资助PeopleDAO，5%用于建立LP池，50%用于DAO融资。
 			- 团队成员：Leader及部分管理员为全职，会领工资及Token期权奖励
 			- DAO融资：在JuiceBOX募资500E，1E对应50万代币，用途主要是网站的服务器费用和安全审计等
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">日常营收支出
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">日常营收支出</p>
 		- 营收：LP手续费，产品付费盈利，广告盈利等
 		- 支出：40%回购代币PANDA，10%质押token者分红，5%买$People资助给PeopleDAO，45%买数字资产存着。
-	- 社区成员主要激励方式：对产出者发放代币奖励
-	- 合作机会：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">社区成员主要激励方式</p>
+		- 对产出者发放代币奖励
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
 		- PandaDAO目前和其他GameFi项目合作较少，可以试着谈我们给WL，他们发推宣传的模式
 		- 创始人野心很大，目前在熊市中也不确定方向，所以各个方向的项目都在尝试，
-	- 个人埋伏机会：
-	- 可借鉴的营销活动：
-	- 发家史：
-	- other notes:
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 涉及的方向比较多，本身发了代币(承诺会回购)，一方面在做资讯平台[PandaMedia](https://beta.pandadao.info/)，一方面打算发NFT
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
 		- 非常去中心化，一切决策由社区提案并投票决定
