@@ -205,6 +205,7 @@ public:: true
 		- 成立于2022年1月，是peopleDAO的subDAO
 		-
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
+		- 4月初发行过创世NFT“Panda Insight"，
 		- 发行的代币PANDA从0.013跌到0.003，官方承诺七八月会以0.005的价格无限额回购
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
 		- 非常去中心化，一切决策由社区提案并投票决定。资金使用需要9人中的6人多签。
