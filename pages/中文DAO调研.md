@@ -44,9 +44,9 @@ public:: true
 		- ⭐⭐⭐⭐ 和瓜田达成私下合作，由社区研究员在#赚钱快报等频道推荐
 		- ⭐⭐⭐ 将游戏经济模型发布到#游戏咨询，请官方简单分析
 		- ⭐⭐ 自己发布游戏介绍到#财富密码，装作普通玩家推荐
-	- 个人埋伏机会：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 		- 输出内容，领取一页知白等相对简单且有价值的任务(预估时间：4小时/篇)，获得军师身份，以军师身份推荐项目及与瓜田接触
-	- 可借鉴的营销活动：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
 		- **空投激励：**为社区产出有价值内容的成员获得空投奖励，按劳分配
 			- To think：我们社区需要什么“有价值的内容”？
 			- 空投内容：除了U，还有什么能吸引社区的东西可以用来作为奖励？
@@ -56,7 +56,7 @@ public:: true
 			- To think：我们能和哪些项目进行这类合作？如何吸引其他项目来我们社区给白？
 		- **价值输出：**社区凝聚力的根本是不断有看起来很厉害的文章和有利可图的活动
 			- To think：我们可以输出什么非游戏内容？
-	- 发家史：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 		- 去年11月底作为链游Hashland的攻略君开设推特，每天高频率发布该游戏的攻略，特点是善于用经济模型进行分析。随后开设TG社区，用于交流该游戏。
 		- 12月底在Hashland游戏中建立公会，是现在DAO的雏形。风格是土豪空投。建会一周之内进行了两次成员空投。每个公会成员至少30U以上。
 		- 1月底由于Hashland币价低迷且游戏处于两赛季之间的过渡期，瓜田开始研究其他游戏，并出了研究League of Kingdoms的第一个视频研究报告《瓜田公会之链游点石成金第一集》。同时宣布公会转型，做成社区聚合型的游戏公会DAO。
@@ -66,7 +66,7 @@ public:: true
 		- 与多个DAO进行合作，瓜田为他们的社区提供GameFi板块的研报。对方给DAO的白名单等福利。
 		- 5月初，各大功能组相继建立。内容由瓜田个人产出转型为社区产出为主。
 		- 5月下19日， WGG改名为W Labs。
-	- other notes:
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- DAO人数目前较少，部分原因是没有进行高强度的营销动作。很多活动和福利也是在DS内部发布，没有在推上宣传。但社区活跃度相当高。算是质量很高的社区。
 -
 - ### SnapFingers DAO
