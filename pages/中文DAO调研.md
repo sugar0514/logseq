@@ -129,23 +129,24 @@ public:: true
 		- 加入微信群，投稿链游测评文章，当上研究员
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00cec9"> AllForResearch</p>
   background-color:: #793e3e
-	- 简单评价：以视频为主的WEB3科普向媒体
-	- 基础数据：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
+		- 以视频为主的WEB3科普向媒体
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
 		- Discord人数：684
 		- Discord活跃度(最近一周平均日聊天数)：<5
 		- Twitter人数：287
 		- Twitter互动数：<10
 		- 官网：https://www.youtube.com/AllForResearch (6.43k)
-	- 运营模式：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">运营模式</p>
 		- 封闭团队单方面输出内容，与社区几乎没有互动，也几乎没有项目合作。
 		- 原创内容以讲解向视频为主，DS上会转发或翻译优质长文。
-	- 盈利方式：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">盈利方式</p>
 		- 无
-	- 合作机会：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
 		- 推特和DS更像是Youtube的衍生社区，顺便运营，十分冷清。因此主要合作机会在于视频。参考他们为stepn做的[测评视频](https://www.youtube.com/watch?v=Rvqrne4Y0a4&ab_channel=AllForResearch)。不过视频数据也一般，播放量几K但评论只有十条左右。
-	- 个人埋伏机会：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 		- 产出团队没有公开招募成员，暂无
-	- 可借鉴的营销活动：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
 		- **内容借力：**在团队自身产出能力有限的情况下，可以通过转发他人文章来低成本地为社区提供更多有价值信息。
 			- To think：我们作为游戏项目方，有没有必要这么做，做的话转发什么类型的内容比较合适？
 				- 经济模型相关理论？
