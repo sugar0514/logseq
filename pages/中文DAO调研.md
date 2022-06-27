@@ -194,7 +194,7 @@ public:: true
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 		- 算是比较重视组织架构和践行去中心化的DAO，可以从中学习DAO的运行方式和实践细节，包括一些娱乐活动的设计
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
-		- **解谜拿白：** 本来拥有5万代币就可以拿到mint新NFT的白名单，但现在设计为要完成一系列解谜。这反而激发了大家的挑战欲。且付出了精力脑力好不容易拿到白名单后，不mint更感觉亏了。参考
+		- **解谜拿白：** 本来拥有5万代币就可以拿到mint新NFT的白名单，但现在设计为要完成一系列解谜。这反而激发了大家的挑战欲。且付出了精力脑力好不容易拿到白名单后，不mint更感觉亏了。同理参考Millionaire Land，明明求着人拿白mint，但一定要表现成答题获胜才能拿白。
 			- To think：我们在哪些地方可以设计这种挑战？
 		- **决策公开：**国库资金使用的讨论在DS中完全公开。因为大家都在有理有据地理性讨论，这样的对话让人对社区更信任，既信任其去中心化程度，也信任其决策团队的判断能力。这样的信任可以转化为币价提升。
 			- To think：我们是否需要将一些事务拿给社区讨论决定？优劣势有哪些？
