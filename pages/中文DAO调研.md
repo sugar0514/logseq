@@ -202,7 +202,7 @@ public:: true
 			- To think：我们需要这两个频道吗？有什么作用？
 		- **共建工具Dework：** [web3赏金平台DeWork](https://app.dework.xyz/bounties)，既可以方便地在自己社区内招募志愿者完成工作，也可以通过发布公开赏金任务，直接从Dework平台吸引流量。
 		- **周会制度：**每周和社区通过Twitter space沟通一次，和stepn的做法类似。
-			- To think：这么做的优势是加强社区对团队的信任，及时听到社区的反馈。劣势是需要团队有足够多的内容可以每周分享，
+			- To think：这么做的优势是加强社区对团队的信任，及时听到社区的反馈。劣势是需要团队有足够多的内容可以每周分享，还有呢？
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 		- 成立于2022年1月，是peopleDAO的subDAO
 		- 2月21日开始在JuiceBox上募资(1E=50万熊猫币，但当时熊猫币连名字都没定)
@@ -223,6 +223,7 @@ public:: true
 				- 5. NFT持有者可以享有对文章付费内容的无限制访问，拥有独立的身份标识和Panda Media的信息审核官角色。
 		- 4月10日，提出建立三支VC小组的提案(通过)
 			- [VC小队的提案内容](https://snapshot.org/#/panda-dao.eth/proposal/0x4aec31941798a7ed7afeaa22a81ab45c5fc9c615595035f0a4e82d853f99eacf)
+		- 4月15日，提出减少核心贡献者激励分配的
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 发行的代币PANDA从0.013跌到0.003，官方承诺七八月会以0.005的价格无限额回购
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
