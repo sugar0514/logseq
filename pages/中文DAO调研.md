@@ -153,11 +153,11 @@ public:: true
 				- Web3新人教程？
 				- GameFi概念科普？
 				- 有关游戏的科普？
-	- 发家史：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 		- 21年7月开始在YouTube发布web3的科普向视频，积累了6k粉丝。
 		- 22年3月开设DS。一开始运营较积极，除发布视频外还会翻译优质文章。
 		- 22年4月底开始，DS逐渐放弃运营，只是把优质文章和工具转发到DS，DS变得更像未整理的资料箱。
-	- Other notes:
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">Other notes</p>
 		- DS上的信息虽然杂乱，但质量还不错，有问题在频道问，都会有人解答。可以自己把信息归档整理一下，作为一个信息源。
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> PandaDAO</p>
   background-color:: #793e3e
