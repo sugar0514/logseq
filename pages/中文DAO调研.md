@@ -21,9 +21,9 @@ public:: true
 		- Twitter人数：5562
 		- Twitter互动数：<10
 		- 官网：无
-	- 运营支出：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">运营支出</p>
 		- 每月管理员及活跃成员会给U奖励
-	- 盈利方式：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">盈利方式</p>
 		- 公开：无(分红奖金的来源说是社区沉淀资产的收益)
 		- 推测：游戏项目方付费
 			- 依据：
