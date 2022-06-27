@@ -73,18 +73,18 @@ public:: true
   background-color:: #793e3e
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
 		- 关注Web3各个领域的资讯型DAO，团队运营，风格较高冷。旗下的GWG DAO则专注链游。
-	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
 		- Discord人数：56381
 		- Discord活跃度(最近一周平均日聊天数)：>20
 		- Twitter人数：602000
 		- Twitter互动数：>50
 		- 官网：[snapfingers.com](https://snapfingers.com/)
-	- 运营支出：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">运营支出</p>
 		- 无
 	- 社区成员主要激励方式：贡献者获得等级经验，凭等级参与白名单空投活动
-	- 盈利方式：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">盈利方式</p>
 		- 无
-	- 合作机会：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
 		- ⭐⭐⭐⭐⭐ 作为嘉宾举行联合座谈会
 			- 逼格最高，以输出知识而不是宣传项目的形式出现，传达的信息更易被接受。且输出的内容有SnapFingers的背书。
 		- ⭐⭐⭐⭐ 举办联合AMA
@@ -94,17 +94,17 @@ public:: true
 		- ⭐⭐ 以社区成员身份在#鹰眼情报或初阶情报中推荐项目
 			- 鹰眼情报需要社区等级到8级，要花费较多心力
 			- 初阶情报内容鱼龙混杂，效果一般
-	- 个人埋伏机会：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 		- 进入建设组，输出研报内容
 		- 提升到8级，发布鹰眼情报
-	- 可借鉴的营销活动：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
 		- **社区游戏**
 			- 频繁地进行DS上的游戏，来维持成员活跃度。奖励为等级经验，等级与福利挂钩。
 				- To think：我们能给的福利是什么？
-	- 发家史：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 		- 21年4月，由主要承接项目在亚洲的AMA的公关公司转型为研究型媒体
 		- 22年2月，开始转型为社区成员共创的研究型DAO
-	- other notes:
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 推特运作方式：官方号发布周报和高质量长文，贡献者个人号发布日报和短消息
 - ### GWG DAO
 	- 简介：专注于GameFi领域的资讯型DAO，去年12月成立，是SnapFinger的子社区。
