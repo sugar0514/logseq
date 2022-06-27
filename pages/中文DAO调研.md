@@ -204,7 +204,7 @@ public:: true
 		- **周会制度：**每周和社区通过Twitter space沟通一次，和stepn的做法类似。
 			- To think：这么做的优势是加强社区对团队的信任，及时听到社区的反馈。劣势是需要团队有足够多的内容可以每周分享，还有呢？
 		- **寻求cultDAO的投资：**让拥有cultDAO提案权的成员在cultDAO发起提案，对PANDA DAO投资13E。看中的是Cult在国外的人气和顶级营销能力。(提案未通过)
-			- To think：这也是一种和DAO合作的方式，提案本身也是宣传。我们的着手点在哪里？
+			- To think：在别的DAO提案和我们合作，也是一种利用DAO资源的方式，提案本身就是宣传。需要想想我们的着手点在哪里？
 			- To think：
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 		- 成立于2022年1月，是peopleDAO的subDAO
