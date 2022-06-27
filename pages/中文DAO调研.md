@@ -203,6 +203,7 @@ public:: true
 		- **共建工具Dework：** [web3赏金平台DeWork](https://app.dework.xyz/bounties)，既可以方便地在自己社区内招募志愿者完成工作，也可以通过发布公开赏金任务，直接从Dework平台吸引流量。
 		- **周会制度：**每周和社区通过Twitter space沟通一次，和stepn的做法类似。
 			- To think：这么做的优势是加强社区对团队的信任，及时听到社区的反馈。劣势是需要团队有足够多的内容可以每周分享，还有呢？
+		- 寻求cultDAO的投资：让拥有cultDAO
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 		- 成立于2022年1月，是peopleDAO的subDAO
 		- 2月21日开始在JuiceBox上募资(1E=50万熊猫币，但当时熊猫币连名字都没定)
