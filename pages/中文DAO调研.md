@@ -181,10 +181,10 @@ public:: true
 		- 对全职工作人员和兼职产出者发放代币奖励或NFT白名单。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
 		- PandaDAO目前和其他GameFi项目合作较少，可以试着谈我们给WL，他们发推宣传的模式
-			- To think：WL对他们的吸引力有限，有没有更新颖的方式？比如和他们的新NFT结合？
+			- To think：WL对他们的吸引力有限，有没有更新颖的方？比如和他们的新NFT结合？
 				- ERC721P：目前的消息是PFP类，需要用50K panda币mint，官方承诺可以无限期自由退款。
 			- To think：有没有比发推宣传更有效的合作方式？
-				- 社区成员大多数不是关注GameFi领域的玩家，玩NFT的更多。单纯的宣传效果应该不会太好。最好能让
+				- 社区成员大多数不是关注GameFi领域的玩家，玩NFT的更多。单纯的宣传效果应该不会太好。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
