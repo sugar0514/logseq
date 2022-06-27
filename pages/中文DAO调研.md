@@ -195,7 +195,8 @@ public:: true
 		- 算是比较重视组织架构和践行去中心化的DAO，可以从中学习DAO的运行方式和实践细节，包括一些娱乐活动的设计
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
 		- **解谜拿白：** 本来拥有5万代币就可以拿到mint新NFT的白名单，但现在设计为要完成一系列解谜。这反而激发了大家的挑战欲。且付出了精力脑力好不容易拿到白名单后，不mint更感觉亏了。
-			- To think：我们在哪些地方可以设计这种
+			- To think：我们在哪些地方可以设计这种挑战？
+		- **决策公开：**国库资金使用的讨论在DS中完全公开。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 发行的代币PANDA从0.013跌到0.003，官方承诺七八月会以0.005的价格无限额回购
