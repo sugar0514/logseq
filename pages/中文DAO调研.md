@@ -179,6 +179,6 @@ public:: true
 	- 可借鉴的营销活动：
 	- 发家史：
 	- other notes:
-		- 涉及的方向比较多，一方面在做资讯平台[PandaMedia](https://beta.pandadao.info/)，一方面打算发NFT
+		- 涉及的方向比较多，本身发了代币，一方面在做资讯平台[PandaMedia](https://beta.pandadao.info/)，一方面打算发NFT
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
 		- 非常去中心化，一切决策由社区提案并投票决定
