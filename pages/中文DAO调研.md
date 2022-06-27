@@ -205,7 +205,7 @@ public:: true
 		- 成立于2022年1月，是peopleDAO的subDAO
 		- 2月21日开始在JuiceBox上融资，到4月4日，募到500E
 		- 3月17日，Panda Media Beta上线
-		- 4月初发行代币，半个月内在JuiceBox上募资1929E (原计划募资500E)
+		- 4月4日宣布募资额达标(500E)，半个月内在JuiceBox上募资1929E (原计划募资500E)
 		-
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 4月初发行过创世NFT“Panda Insight"
