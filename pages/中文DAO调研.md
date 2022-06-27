@@ -29,8 +29,9 @@ public:: true
 			- 依据：
 				- 1. 瓜田本人会给GameFi项目做经济模型设计和咨询，这一块肯定是有营收的。他运营这个社群本身，可以提高他的影响力，从而收取更高的设计费和咨询费。
 				  2. 社群内有多个频道会推荐新游戏及做游戏测评，这可以为游戏引流。明面上官方会给出WL等福利，私底下是否会给瓜田本人利益则未知。
-	- 社区成员主要激励方式：贡献者获得特殊角色，参与项目白名单和U的空投
-	- 合作机会：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">社区成员主要激励方式</p>
+		- 贡献者获得特殊角色，参与项目白名单和U的空投
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
 		- ⭐⭐⭐⭐⭐ 达成公开合作，在#游戏总兵府 中拥有一个channel
 			- 服务：
 				- 单独的游戏交流channel
