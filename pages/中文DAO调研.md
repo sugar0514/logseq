@@ -185,7 +185,7 @@ public:: true
 				- ERC721P：目前的消息是PFP类，需要用50K panda币mint，官方承诺可以无限期自由退款。
 			- To think：有没有比发推更有效的宣传方式？
 				- 社区成员大多数不是关注GameFi领域的玩家，玩NFT的更多。单纯的宣传效果应该不会太好。
-				- 社区目前已经在进行两个项目，从创始人推特来看，熊市期间不想进行不确定性太强的项目。
+				- 社区目前已经在进行两个项目，从创始人推特来看，熊市期间不想再开不确定性太强的新项目。所以最好的合作方式是我们对他们已有的两个项目
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
