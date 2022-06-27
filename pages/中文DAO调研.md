@@ -207,14 +207,13 @@ public:: true
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 4月初发行过创世NFT“Panda Insight"
 			- Panda Insight NFT 的提案内容如下：
+			  collapsed:: true
 				- 1. 每个月mod团队寻找10篇优秀的加密文章，包括但不限于twitter，mirror，notion等，而社区只拥有对该文章内容的全部转载权，不享有著作权，改编权，商业应用权等。
-				  2. 同时每个月生成一次ERC1155 NFT作品，每个作品500个NFT，每篇文章的作者享有2个NFT，设计师2个，100个NFT随机空投给创世NFT持有者，剩余部分公开销售，定价0.05 ETH，持续时间15天，全部收入打入国库。
+				- 2. 同时每个月生成一次ERC1155 NFT作品，每个作品500个NFT，每篇文章的作者享有2个NFT，设计师2个，100个NFT随机空投给创世NFT持有者，剩余部分公开销售，定价0.05 ETH，持续时间15天，全部收入打入国库。
 				  未完成销售部分则进行销毁。累计发行10个月，Panda Insight NFT系列总共会有5000份NFT作品。
 				- 3. 同时社区会开启NFT市场 2.5%的版权税，税收全部打入社区国库地址。
-				  
-				  4. 完成NFT的发行后，社区可以使用NFT的版权税，购买$Panda奖励给未来的加密作者。
-				  
-				  5. NFT持有者可以享有对文章付费内容的无限制访问，拥有独立的身份标识和Panda Media的信息审核官角色。
+				- 4. 完成NFT的发行后，社区可以使用NFT的版权税，购买$Panda奖励给未来的加密作者。
+				- 5. NFT持有者可以享有对文章付费内容的无限制访问，拥有独立的身份标识和Panda Media的信息审核官角色。
 		- 发行的代币PANDA从0.013跌到0.003，官方承诺七八月会以0.005的价格无限额回购
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
 		- 非常去中心化，一切决策由社区提案并投票决定。资金使用需要9人中的6人多签。
