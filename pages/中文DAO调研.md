@@ -208,9 +208,7 @@ public:: true
 		- 4月3日，募资达250E，4月4日宣布募资额达标(500E)，将在24小时后关闭通道。4月5日募资额冲到1530E。
 		- 不知何故，在原定关闭时间后，募资额继续增长，最终定格在4月7日的1929E。(有可能是因为开了7天的退款通道，结果更多人打款)
 		- 4月7日，代币PANDA在juiceBOX上发行。
-		- 4月10日，提出发行Panda Insight NFT的提案(具体内容见)
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
-		- 4月初发行过创世NFT“Panda Insight"
+		- 4月10日，提出发行Panda Insight NFT的提案(通过)
 			- Panda Insight NFT 的提案内容如下：
 			  collapsed:: true
 				- 1. 每个月mod团队寻找10篇优秀的加密文章，包括但不限于twitter，mirror，notion等，而社区只拥有对该文章内容的全部转载权，不享有著作权，改编权，商业应用权等。
@@ -219,6 +217,8 @@ public:: true
 				- 3. 同时社区会开启NFT市场 2.5%的版权税，税收全部打入社区国库地址。
 				- 4. 完成NFT的发行后，社区可以使用NFT的版权税，购买$Panda奖励给未来的加密作者。
 				- 5. NFT持有者可以享有对文章付费内容的无限制访问，拥有独立的身份标识和Panda Media的信息审核官角色。
+		- 4月10日，提出建立三支VC小组的提案(通过)
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 发行的代币PANDA从0.013跌到0.003，官方承诺七八月会以0.005的价格无限额回购
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
 		- 非常去中心化，一切决策由社区提案并投票决定。资金使用需要9人中的6人多签。
