@@ -127,7 +127,7 @@ public:: true
 		- ⭐⭐⭐ 混入研究员队伍，把项目信息列上“每日GameFi列表”
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 		- 加入微信群，投稿链游测评文章，当上研究员
-- ### AllForResearch
+- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00cec9"> AllForResearch</p>
   background-color:: #793e3e
 	- 简单评价：以视频为主的WEB3科普向媒体
 	- 基础数据：
