@@ -87,7 +87,7 @@
   :block/updated-at 1655361539942}
  {:block/name "jun 16th, 2022",
   :block/created-at 1655314489792,
-  :block/updated-at 1655365836572}
+  :block/updated-at 1656332865002}
  {:block/name "jun 17th, 2022",
   :block/created-at 1656299342802,
   :block/updated-at 1656299342802}
@@ -96,7 +96,7 @@
   :block/updated-at 1656299342773}
  {:block/name "jun 21st, 2022",
   :block/created-at 1655743332841,
-  :block/updated-at 1655776983226}
+  :block/updated-at 1656332414043}
  {:block/name "jun 22nd, 2022",
   :block/created-at 1655841075689,
   :block/updated-at 1655880245363}
@@ -108,7 +108,7 @@
   :block/updated-at 1656052325223}
  {:block/name "jun 27th, 2022",
   :block/created-at 1656293639534,
-  :block/updated-at 1656299507531}
+  :block/updated-at 1656328501287}
  {:block/name "jun 6th, 2022",
   :block/created-at 1654658659248,
   :block/updated-at 1654658659248}
@@ -177,10 +177,13 @@
   :block/updated-at 1655271777101}
  {:block/name "中文dao调研",
   :block/created-at 1655970649897,
-  :block/updated-at 1656303602921}
+  :block/updated-at 1656316586043}
  {:block/name "修改大电视海报",
   :block/created-at 1656299342786,
   :block/updated-at 1656299342786}
+ {:block/name "关于第三方nft赋能",
+  :block/created-at 1656310265541,
+  :block/updated-at 1656310508847}
  {:block/name "决策路径",
   :block/created-at 1655290022790,
   :block/updated-at 1655361346388}
