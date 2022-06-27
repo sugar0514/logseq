@@ -69,10 +69,11 @@ public:: true
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- DAO人数目前较少，部分原因是没有进行高强度的营销动作。很多活动和福利也是在DS内部发布，没有在推上宣传。但社区活跃度相当高。算是质量很高的社区。
 -
-- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> SnapFingers DAO</p>
+- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00cec9"> SnapFingers DAO</p>
   background-color:: #793e3e
-	- 简单评价：关注Web3各个领域的资讯型DAO，团队运营，风格较高冷。旗下的GWG DAO则专注链游。
-	- 基础数据：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
+		- 关注Web3各个领域的资讯型DAO，团队运营，风格较高冷。旗下的GWG DAO则专注链游。
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据
 		- Discord人数：56381
 		- Discord活跃度(最近一周平均日聊天数)：>20
 		- Twitter人数：602000
