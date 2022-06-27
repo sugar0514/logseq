@@ -198,8 +198,8 @@ public:: true
 			- To think：我们在哪些地方可以设计这种挑战？
 		- **决策公开：**国库资金使用的讨论在DS中完全公开。因为大家都在有理有据地理性讨论，这样的对话让人对社区更信任，既信任其去中心化程度，也信任其决策团队的判断能力。这样的信任可以转化为币价提升。
 			- To think：我们是否需要将一些事务拿给社区讨论决定？优劣势有哪些？
-		- **水聊频道：**常见的两个水聊天的频道：道早安晚安的#gm，发表情包的#meme。许多社区都有这两个频道，但我不太理解这两个频道对项目方的价值。(对玩家来说，因为)
-			- To think：
+		- **水聊频道：**常见的两个水聊天的频道：道早安晚安的#gm，发表情包的#meme。许多社区都有这两个频道，但我不太理解这两个频道对项目方的价值。(对玩家来说，因为社区有等级要求，可以在这两个频道发言刷活跃度)
+			- To think：我们需要这两个频道吗？有什么作用？
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 发行的代币PANDA从0.013跌到0.003，官方承诺七八月会以0.005的价格无限额回购
