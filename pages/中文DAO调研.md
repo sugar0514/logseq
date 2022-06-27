@@ -115,17 +115,17 @@ public:: true
 		- Twitter人数：15.9K
 		- Twitter互动数：<10
 		- 官网：无
-	- 产出内容：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">产出内容</p>
 	- 1. 链游周报：项目进展、融资信息、市场咨询、新项目分享等
 	  2. 每日GameFi列表：新项目简介
 	  3. 项目测评长文(合作项目)
 	  4. 推特抽奖：项目提供WL等
 	  5. 转发项目信息(合作项目)
-	- 合作机会：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
 		- ⭐⭐⭐⭐⭐ 达成合作，让她们写长文测评
 		- ⭐⭐⭐⭐ 推特抽奖活动 (曝光率较高)
 		- ⭐⭐⭐ 混入研究员队伍，把项目信息列上“每日GameFi列表”
-	- 个人埋伏机会：
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 		- 加入微信群，投稿链游测评文章，当上研究员
 - ### AllForResearch
   background-color:: #793e3e
