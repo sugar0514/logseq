@@ -10,7 +10,7 @@ public:: true
 	- 个人的埋伏机会？
 	- 我们可以借鉴的营销活动？
 	- 资料如何入库？
-- ### W Labs 瓜田实验室
+- <p style="color:#FA8A62;font-size:30px;font-family:Chalkboard;font-weight:bold;line-height:50px;background:#000000">W Labs 瓜田实验室</p>
   background-color:: #793e3e
   template:: DAO research
 	- 简单评价：专注于GameFi领域的处于快速上升期的资讯型DAO，合作可能性较大。
