@@ -203,6 +203,7 @@ public:: true
 		- **共建工具Dework：** [web3赏金平台DeWork](https://app.dework.xyz/bounties)，既可以方便地在自己社区内招募志愿者完成工作，也可以通过发布公开赏金任务，直接从Dework平台吸引流量。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 		- 成立于2022年1月，是peopleDAO的subDAO
+		-
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 发行的代币PANDA从0.013跌到0.003，官方承诺七八月会以0.005的价格无限额回购
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
