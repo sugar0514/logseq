@@ -194,7 +194,7 @@ public:: true
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 		- 算是比较重视组织架构和践行去中心化的DAO，可以从中学习DAO的运行方式和实践细节，包括一些娱乐活动的设计
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
-		- **解谜拿白：** 本来拥有5万代币就可以拿到mint新NFT的白名单，但现在设计为要完成一系列解谜。这反而激发了大家的挑战欲。且付出了精力脑力好不容易拿到白名单后，不mint更感觉亏了。
+		- **解谜拿白：** 本来拥有5万代币就可以拿到mint新NFT的白名单，但现在设计为要完成一系列解谜。这反而激发了大家的挑战欲。且付出了精力脑力好不容易拿到白名单后，不mint更感觉亏了。参考
 			- To think：我们在哪些地方可以设计这种挑战？
 		- **决策公开：**国库资金使用的讨论在DS中完全公开。因为大家都在有理有据地理性讨论，这样的对话让人对社区更信任，既信任其去中心化程度，也信任其决策团队的判断能力。这样的信任可以转化为币价提升。
 			- To think：我们是否需要将一些事务拿给社区讨论决定？优劣势有哪些？
@@ -205,8 +205,10 @@ public:: true
 			- To think：这么做的优势是加强社区对团队的信任，及时听到社区的反馈。劣势是需要团队有足够多的内容可以每周分享，还有呢？
 		- **寻求cultDAO的投资：**让拥有cultDAO提案权的成员在cultDAO发起提案，对PANDA DAO投资13E。看中的是Cult在国外的人气和顶级营销能力。(提案未通过)
 			- To think：在别的DAO提案和我们合作，也是一种利用DAO资源的方式，提案本身就是宣传。需要想想我们的着手点在哪里？
-			- To think：募资本身也是宣传方式，现在可以利用哪些渠道？
+			- To think：募资本身也是宣传方式，现在可以利用哪些渠道？需要准备哪些物料？
 				- itch.io
+				- Patreon
+				- and?
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 		- 成立于2022年1月，是peopleDAO的subDAO
 		- 2月21日开始在JuiceBox上募资(1E=50万熊猫币，但当时熊猫币连名字都没定)
