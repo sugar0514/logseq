@@ -200,8 +200,9 @@ public:: true
 			- To think：我们是否需要将一些事务拿给社区讨论决定？优劣势有哪些？
 		- **水聊频道：**常见的两个水聊天的频道：道早安晚安的#gm，发表情包的#meme。许多社区都有这两个频道，但我不太理解这两个频道对项目方的价值。(对玩家来说，因为社区有等级要求，可以在这两个频道发言刷活跃度)
 			- To think：我们需要这两个频道吗？有什么作用？
-		- **共建工具Dework：** [web3赏金平台D](https://app.dework.xyz/bounties)，
+		- **共建工具Dework：** [web3赏金平台DeWork](https://app.dework.xyz/bounties)，既可以方便地在自己社区内招募志愿者完成工作，也可以通过发布公开赏金任务，直接从Dework平台吸引流量。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
+		-
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 发行的代币PANDA从0.013跌到0.003，官方承诺七八月会以0.005的价格无限额回购
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
