@@ -192,10 +192,12 @@ public:: true
 					- 信息监控平台“PandaInsight"：[半成品](https://beta.pandadao.info/)
 						- 这里面有什么合作机会呢？
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
-		- 算是比较重视组织架构和践行去中心化的DAO，可以从中学习DAO的组织
+		- 算是比较重视组织架构和践行去中心化的DAO，可以从中学习DAO的运行方式和实践细节，包括一些娱乐活动的设计
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
+		-
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 涉及的方向比较多，本身发了代币(承诺会回购)，一方面在做资讯平台[PandaMedia](https://beta.pandadao.info/)，一方面打算发NFT
 		- PandaMedia最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
 		- 非常去中心化，一切决策由社区提案并投票决定
+		- 募资是
