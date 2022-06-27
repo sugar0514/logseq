@@ -190,8 +190,9 @@ public:: true
 					- NFT项目“ERC721P”：目前的消息是PFP类，需要用50K panda币mint，官方承诺可以无限期自由退款。
 						- 如何为它赋能？能不能在赋能的同时引流进我们的游戏？
 					- 信息监控平台“PandaInsight"：[半成品](https://beta.pandadao.info/)
-						-
+						- 这里面有什么合作机会呢？
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
+		- 了解社区动态，学习DAO
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
