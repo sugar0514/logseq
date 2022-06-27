@@ -182,8 +182,9 @@ public:: true
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
 		- PandaDAO目前和其他GameFi项目合作较少，可以试着谈我们给WL，他们发推宣传的模式
 			- To think：有没有比发推更有效的宣传方式？
-				- 社区成员大多数不是关注GameFi领域的玩家，玩NFT的更多。单纯的宣传效果应该不会太好。
+				- 社区成员大多数不是关注GameFi领域的玩家，玩NFT的更多。单纯的游戏宣传效果应该不会太好。
 				- NFT的常规玩法里有哪些我们可以借鉴的玩法？
+					- 白名单\PASS卡\空投等
 			- To think：WL对他们的吸引力有限，有没有更符合对方价值的出价？比如给他们的新NFT“ERC721P"赋能？
 				- ERC721P：目前的消息是PFP类，需要用50K panda币mint，官方承诺可以无限期自由退款。
 				- 社区目前已经在进行两个项目，从创始人推特来看，熊市期间不想再开不确定性太强的新项目。所以最好的方式是我们对他们已有的两个项目合作。
