@@ -162,10 +162,10 @@ public:: true
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> PandaDAO</p>
   background-color:: #793e3e
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
-		- 以代币
+		-
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
 		- Discord人数：无法查看 (在线人数五百多)
-		- Discord活跃度(最近一周平均日聊天数)：50+(但以讨论币价为主)
+		- Discord活跃度(最近一周平均日聊天数)：50+(但以讨论币价和即将mint的NFT为主)
 		- Twitter人数：31000
 		- Twitter互动数：50+
 		- 官网：https://beta.pandadao.info/
