@@ -158,7 +158,7 @@ public:: true
 		- 22年4月底开始，DS逐渐放弃运营，只是把优质文章和工具转发到DS，DS变得更像未整理的资料箱。
 	- Other notes:
 		- DS上的信息虽然杂乱，但质量还不错，有问题在频道问，都会有人解答。可以自己把信息归档整理一下，作为一个信息源。
-- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> PandaDAO
+- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> PandaDAO</p>
   background-color:: #793e3e
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
 		- 以代币
