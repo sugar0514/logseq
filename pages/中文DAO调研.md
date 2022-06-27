@@ -10,7 +10,7 @@ public:: true
 	- 个人的埋伏机会？
 	- 我们可以借鉴的营销活动？
 	- 资料如何入库？
-- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#6DDED1 "> W Labs 瓜田实验室</p>
+- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#4AA883"> W Labs 瓜田实验室</p>
   background-color:: #793e3e
   template:: DAO research
 	- <p style="color:#6DDED1; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
