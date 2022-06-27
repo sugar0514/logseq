@@ -203,9 +203,9 @@ public:: true
 		- **共建工具Dework：** [web3赏金平台DeWork](https://app.dework.xyz/bounties)，既可以方便地在自己社区内招募志愿者完成工作，也可以通过发布公开赏金任务，直接从Dework平台吸引流量。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
 		- 成立于2022年1月，是peopleDAO的subDAO
-		- 2月21日开始在JuiceBox上融资(1E=50万熊猫币，但当时熊猫币连名字都没定)，到4月4日，募到500E
+		- 2月21日开始在JuiceBox上募资(1E=50万熊猫币，但当时熊猫币连名字都没定)
 		- 3月17日，Panda Media Beta上线
-		- 4月4日宣布募资额达标(500E)，将在24小时后关闭通道。4月5日募资额冲到1530E。
+		- 4月3日，募资达250E，4月4日宣布募资额达标(500E)，将在24小时后关闭通道。4月5日募资额冲到1530E。
 		- 不知何故，在原定关闭时间后，募资额继续增长，最终定格在4月7日的1929E。(有可能是因为开了7天的退款通道，结果更多人打款)
 		- 4月7日，代币PANDA在juiceBOX上发行。
 		-
