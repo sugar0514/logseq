@@ -5,4 +5,6 @@
 	- KOL合作/项目合作
 	- NFT breeding
 	- NFT sale
+	- mini game(用代币)
+	- NFT交易
 	-
