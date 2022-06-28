@@ -1,1 +1,6 @@
 - 每个频道有设计专门的头图
+- 活动类型
+	- giveaways(NFT)
+	- 代币burning
+	- KOL合作/项目合作
+	-
