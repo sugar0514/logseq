@@ -3,4 +3,6 @@
 	- giveaways(NFT)
 	- 代币burning
 	- KOL合作/项目合作
+	- NFT breeding
+	- NFT sale
 	-
