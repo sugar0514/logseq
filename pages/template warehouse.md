@@ -1,8 +1,8 @@
 - <p style="font-size:40px; color:#FB9483; font-weight:bold;line-height:50px">game name</p>
   template:: GameFi Project
-	- ![游戏宣传图](图片链接)
+	- ![游戏宣传图]()
 	- <p style="font-size:25px; font-weight:bold; line-height:50px">Basic Info</P>
-		- 🌐 [Website](官网链接)
+		- 🌐 [Website]()
 		- 🐦 [Twitter]() Followers: **粉丝数**
 		- 🔷 [Discord]() Members: **人数**
 		- 📅 live date: /date
