@@ -12,3 +12,4 @@
 	- [https://discord.gg/EGUgz5EZVp](https://discord.gg/EGUgz5EZVp)
 - Invite Management #进服验证
 	- [https://invi-bot.xyz/](https://invi-bot.xyz/)
+	- 根据提示输入验证码，进行验证
