@@ -1,7 +1,6 @@
 - #web3
-  heading:: true
-  collapsed:: true
 - <p style="font-size:40px; color:#CCAADC; font-weight:bold;line-height:50px">Golden Brothers</p>
+  collapsed:: true
 	- ![alt](https://sgimage.netmarble.com/images/netmarble/gold/20220428/iaxl1651114589587.jpg)
 	- <p style="font-size:25px; font-weight:bold; line-height:50px">Basic Info</P>
 		- 🌐 [Website](https://goldenbros.netmarble.com/)
@@ -54,4 +53,3 @@
 			- 交易所卖币会被征收高税
 				- ![截屏2022-06-08 下午5.26.54.png](../assets/截屏2022-06-08_下午5.26.54_1654680418524_0.png)
 			-
--
