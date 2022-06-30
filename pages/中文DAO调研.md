@@ -255,7 +255,7 @@ public:: true
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
 		-
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
-		- Discord人数：
+		- Discord人数：1.47K
 		- Discord活跃度(最近一周平均日聊天数)：
 		- Twitter人数：2007
 		- Twitter互动数：
