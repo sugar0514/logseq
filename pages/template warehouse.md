@@ -17,4 +17,32 @@
 			- ==回本周期计算方式：==
 	- <p style="font-size:25px; font-weight:bold; line-height:50px">Others</P>
 		- 📝 Notes:
--
+- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00cec9"> DAO NAME</p>
+  background-color:: #793e3e
+  template:: DAO research
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
+		-
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
+		- Discord人数：
+		- Discord活跃度(最近一周平均日聊天数)：
+		- Twitter人数：
+		- Twitter互动数：
+		- 官网：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">运营支出</p>
+		-
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">盈利方式</p>
+		- 公开：
+		- 推测：
+			- 依据：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">社区成员主要激励方式</p>
+		-
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
+		- ⭐⭐⭐⭐⭐
+		- ⭐⭐⭐⭐
+		- ⭐⭐⭐
+		- ⭐⭐
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
+		-
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
