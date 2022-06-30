@@ -247,5 +247,61 @@ public:: true
 		- PandaMedia的数据近两周未更新，最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
 		- 社区非常去中心化，一切决策由社区提案并投票决定。资金使用需要9人中的6人多签。
 		- 创始人的推特形象很好，发言都显得格局很大且冷静客观，比如表示在熊市各项目要相互扶持；比如列举了自己冷静决策避免了DAO资金亏损的案例。
-- BuilderDAO
+- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> </p>
+  background-color:: #793e3e
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
+		- 专注于GameFi领域的处于快速上升期的资讯型DAO，合作可能性较大。
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
+		- Discord人数：2698
+		- Discord活跃度(最近一周平均日聊天数)：>30
+		- Twitter人数：5562
+		- Twitter互动数：<10
+		- 官网：无
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">运营支出</p>
+		- 每月管理员及活跃成员会给U奖励
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">盈利方式</p>
+		- 公开：无(分红奖金的来源说是社区沉淀资产的收益)
+		- 推测：游戏项目方付费
+			- 依据：
+				- 1. 瓜田本人会给GameFi项目做经济模型设计和咨询，这一块肯定是有营收的。他运营这个社群本身，可以提高他的影响力，从而收取更高的设计费和咨询费。
+				  2. 社群内有多个频道会推荐新游戏及做游戏测评，这可以为游戏引流。明面上官方会给出WL等福利，私底下是否会给瓜田本人利益则未知。
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">社区成员主要激励方式</p>
+		- 贡献者获得特殊角色，参与项目白名单和U的空投
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
+		- ⭐⭐⭐⭐⭐ 达成公开合作，在#游戏总兵府 中拥有一个channel
+			- 服务：
+				- 单独的游戏交流channel
+				- 瓜田白皮书解析及经济模型分析
+				- 内测组游戏测评
+				- 在瓜田DS做AMA
+				- 游戏动向实时更新到瓜田DS中，日常答疑
+				- fanart产出
+			- 前提条件：私下谈妥分利方案，经济模型合理(有素材吹)，提供瓜田社区专属福利
+		- ⭐⭐⭐⭐ 和瓜田达成私下合作，由社区研究员在#赚钱快报等频道推荐
+		- ⭐⭐⭐ 将游戏经济模型发布到#游戏咨询，请官方简单分析
+		- ⭐⭐ 自己发布游戏介绍到#财富密码，装作普通玩家推荐
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
+		- 输出内容，领取一页知白等相对简单且有价值的任务(预估时间：4小时/篇)，获得军师身份，以军师身份推荐项目及与瓜田接触
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
+		- **空投激励：**为社区产出有价值内容的成员获得空投奖励，按劳分配
+			- To think：我们社区需要什么“有价值的内容”？
+			- 空投内容：除了U，还有什么能吸引社区的东西可以用来作为奖励？
+		- **有效广告：**鼓励成员拿着本社区的有价值内容去其他社区安利，这要优于只是让成员去发垃圾信息打广告。
+			- To think：哪些是值得转发的有效内容？如何产出？
+		- **有条件抽奖：**其他项目给白的时候，只允许有贡献(有DS身份)的成员参与抽奖。这激励了成员对社区做出贡献，对社区自身有好处；也避免了很多撸白的投机者，对项目方有好处。
+			- To think：我们能和哪些项目进行这类合作？如何吸引其他项目来我们社区给白？
+		- **价值输出：**社区凝聚力的根本是不断有看起来很厉害的文章和有利可图的活动
+			- To think：我们可以输出什么非游戏内容？
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
+		- 去年11月底作为链游Hashland的攻略君开设推特，每天高频率发布该游戏的攻略，特点是善于用经济模型进行分析。随后开设TG社区，用于交流该游戏。
+		- 12月底在Hashland游戏中建立公会，是现在DAO的雏形。风格是土豪空投。建会一周之内进行了两次成员空投。每个公会成员至少30U以上。
+		- 1月底由于Hashland币价低迷且游戏处于两赛季之间的过渡期，瓜田开始研究其他游戏，并出了研究League of Kingdoms的第一个视频研究报告《瓜田公会之链游点石成金第一集》。同时宣布公会转型，做成社区聚合型的游戏公会DAO。
+		- 2月11日， Discord开始运营。
+		- 2月19日，开始在Mirror写文章。从此频繁发布项目信息和点评。
+		- 瓜田凭着在GameFi领域的高强度内容输出，不断提升影响力，这期间开始有链游找来合作，在社区进行AMA，为社区提供独家白名单。也有项目向他私人购买经济模型设计和咨询服务。
+		- 与多个DAO进行合作，瓜田为他们的社区提供GameFi板块的研报。对方给DAO的白名单等福利。
+		- 5月初，各大功能组相继建立。内容由瓜田个人产出转型为社区产出为主。
+		- 5月下19日， WGG改名为W Labs。
+	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
+		- DAO人数目前较少，部分原因是没有进行高强度的营销动作。很多活动和福利也是在DS内部发布，没有在推上宣传。但社区活跃度相当高。算是质量很高的社区。
 -
