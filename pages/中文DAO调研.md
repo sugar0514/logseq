@@ -277,7 +277,8 @@ public:: true
 		-
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
-		- 成立于5月17日，一开始是内测期，
+		- 成立于22年5月17日，一开始是内测期
+		- 22年5月25日成立了五个子公会：项目孵化公会、教育公会、科学家公会、运营公会、投研公会
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 -
 -
