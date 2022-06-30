@@ -257,7 +257,7 @@ public:: true
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
 		- Discord人数：
 		- Discord活跃度(最近一周平均日聊天数)：
-		- Twitter人数：
+		- Twitter人数：2007
 		- Twitter互动数：
 		- 官网：
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">运营支出</p>
