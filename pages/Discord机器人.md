@@ -10,3 +10,4 @@
 - Rumble Royale #DS-game
 	- 报名玩家自动文字冒险游戏
 	- [https://discord.gg/EGUgz5EZVp](https://discord.gg/EGUgz5EZVp)
+- Invite Management
