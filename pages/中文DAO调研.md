@@ -267,27 +267,12 @@ public:: true
 		-
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
 		- ⭐⭐⭐⭐⭐
-			- 服务：
-				- 单独的游戏交流channel
-				- 瓜田白皮书解析及经济模型分析
-				- 内测组游戏测评
-				- 在瓜田DS做AMA
-				- 游戏动向实时更新到瓜田DS中，日常答疑
-				- fanart产出
-			- 前提条件：私下谈妥分利方案，经济模型合理(有素材吹)，提供瓜田社区专属福利
-		- ⭐⭐⭐⭐ 和瓜田达成私下合作，由社区研究员在#赚钱快报等频道推荐
-		- ⭐⭐⭐ 将游戏经济模型发布到#游戏咨询，请官方简单分析
-		- ⭐⭐ 自己发布游戏介绍到#财富密码，装作普通玩家推荐
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
-		- 输出内容，领取一页知白等相对简单且有价值的任务(预估时间：4小时/篇)，获得军师身份，以军师身份推荐项目及与瓜田接触
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
-		- **空投激励：**为社区产出有价值内容的成员获得空投奖励，按劳分配
-			- To think：我们社区需要什么“有价值的内容”？
-			- 空投内容：除了U，还有什么能吸引社区的东西可以用来作为奖励？
-		- **有效广告：**鼓励成员拿着本社区的有价值内容去其他社区安利，这要优于只是让成员去发垃圾信息打广告。
-			- To think：哪些是值得转发的有效内容？如何产出？
-		- **有条件抽奖：**其他项目给白的时候，只允许有贡献(有DS身份)的成员参与抽奖。这激励了成员对社区做出贡献，对社区自身有好处；也避免了很多撸白的投机者，对项目方有好处。
-			- To think：我们能和哪些项目进行这类合作？如何吸引其他项目来我们社区给白？
+		- ⭐⭐⭐⭐
+		- ⭐⭐⭐
+		- ⭐⭐
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
+		-
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
 		- **价值输出：**社区凝聚力的根本是不断有看起来很厉害的文章和有利可图的活动
 			- To think：我们可以输出什么非游戏内容？
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
