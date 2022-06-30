@@ -13,7 +13,7 @@ public:: true
 - #DAO
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> W Labs 瓜田实验室</p>
   background-color:: #793e3e
-  template:: DAO research
+  collapsed:: true
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
 		- 专注于GameFi领域的处于快速上升期的资讯型DAO，合作可能性较大。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
@@ -69,9 +69,9 @@ public:: true
 		- 5月下19日， WGG改名为W Labs。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- DAO人数目前较少，部分原因是没有进行高强度的营销动作。很多活动和福利也是在DS内部发布，没有在推上宣传。但社区活跃度相当高。算是质量很高的社区。
--
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00cec9"> SnapFingers DAO</p>
   background-color:: #793e3e
+  collapsed:: true
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
 		- 关注Web3各个领域的资讯型DAO，团队运营，风格较高冷。旗下的GWG DAO则专注链游。
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
@@ -108,6 +108,7 @@ public:: true
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 推特运作方式：官方号发布周报和高质量长文，贡献者个人号发布日报和短消息
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> GWG DAO</p>
+  collapsed:: true
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简介</p>
 		- 专注于GameFi领域的资讯型DAO，去年12月成立，是SnapFinger的子社区。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
@@ -130,6 +131,7 @@ public:: true
 		- 加入微信群，投稿链游测评文章，当上研究员
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00cec9"> AllForResearch</p>
   background-color:: #793e3e
+  collapsed:: true
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
 		- 以视频为主的WEB3科普向媒体
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
@@ -162,6 +164,7 @@ public:: true
 		- DS上的信息虽然杂乱，但质量还不错，有问题在频道问，都会有人解答。可以自己把信息归档整理一下，作为一个信息源。
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> PandaDAO</p>
   background-color:: #793e3e
+  collapsed:: true
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
 		- 更像一家去中心化公司，募资后开发各类WEB3项目，目前进行中的项目有数据监测工具PandaInsight和NFT项目ERC721P。靠发行代币募资来支持项目运行。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
