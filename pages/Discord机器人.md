@@ -7,5 +7,6 @@
 - QuizBot #DS-game
 	- 在服务器进行答题比赛，可以定制题库，也可以用已有题库
 	- https://quizbot.xyz/
-- Rumble Royale
--
+- Rumble Royale #DS-game
+	- 报名玩家自动文字冒险游戏
+	- [https://discord.gg/EGUgz5EZVp](https://discord.gg/EGUgz5EZVp)
