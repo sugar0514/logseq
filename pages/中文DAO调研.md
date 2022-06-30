@@ -258,8 +258,8 @@ public:: true
 		- Discord人数：1.47K
 		- Discord活跃度(最近一周平均日聊天数)：20+(讨论奥德赛)
 		- Twitter人数：2007
-		- Twitter互动数：
-		- 官网：
+		- Twitter互动数：<20
+		- 链接汇总：https://linktr.ee/buidlerdao
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">运营支出</p>
 		-
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">盈利方式</p>
