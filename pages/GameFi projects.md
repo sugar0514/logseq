@@ -1,6 +1,7 @@
-- <p style="font-size:40px; color:#CCAADC; font-weight:bold;line-height:50px">Golden Brothers</p>
+- #web3
   heading:: true
   collapsed:: true
+- <p style="font-size:40px; color:#CCAADC; font-weight:bold;line-height:50px">Golden Brothers</p>
 	- ![alt](https://sgimage.netmarble.com/images/netmarble/gold/20220428/iaxl1651114589587.jpg)
 	- <p style="font-size:25px; font-weight:bold; line-height:50px">Basic Info</P>
 		- 🌐 [Website](https://goldenbros.netmarble.com/)
@@ -28,6 +29,7 @@
 			- 韩国龙头手游公司netmarble和链游平台cube联合出品的游戏，与币安有合作关系。十万个盲盒十分钟内销售一空。
 				- 3月以199美元的价格发售了五万个，4月以299美元的价格发售了五万个。
 - <p style="font-size:40px; color:#FB9483; font-weight:bold;line-height:50px">Flower Fam</p>
+  collapsed:: true
 	- ![游戏宣传图](https://pbs.twimg.com/media/FTTGvxZX0AAr80T?format=jpg&name=4096x4096)
 	- <p style="font-size:25px; font-weight:bold; line-height:50px">Basic Info</P>
 		- 🌐 [Website](https://oasis.flowerfam.earth/)
