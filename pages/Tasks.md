@@ -1,4 +1,5 @@
 - {{renderer :todomaster}}
-- {{query(or [[TODO]]) }}
+- {{query(or [[DONE]] [[TODO]] [[DOING]]) }}
   query-table:: false
+-
 -
