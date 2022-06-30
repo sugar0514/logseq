@@ -21,7 +21,7 @@
   :block/updated-at 1654517542822}
  {:block/name "chumbi valley社区运营",
   :block/created-at 1656381184867,
-  :block/updated-at 1656383324284}
+  :block/updated-at 1656472583218}
  {:block/name "conference",
   :block/created-at 1655361420690,
   :block/updated-at 1655361420690}
@@ -111,10 +111,13 @@
   :block/updated-at 1656052325223}
  {:block/name "jun 27th, 2022",
   :block/created-at 1656293639534,
-  :block/updated-at 1656328501287}
+  :block/updated-at 1656385896703}
  {:block/name "jun 28th, 2022",
   :block/created-at 1656379782140,
-  :block/updated-at 1656383196050}
+  :block/updated-at 1656385955334}
+ {:block/name "jun 29th, 2022",
+  :block/created-at 1656432087489,
+  :block/updated-at 1656485850419}
  {:block/name "jun 6th, 2022",
   :block/created-at 1654658659248,
   :block/updated-at 1654658659248}
@@ -181,6 +184,9 @@
  {:block/name "web3",
   :block/created-at 1655271777101,
   :block/updated-at 1655271777101}
+ {:block/name "七八月停服期运营目标",
+  :block/created-at 1656466875445,
+  :block/updated-at 1656469516427}
  {:block/name "中文dao调研",
   :block/created-at 1655970649897,
   :block/updated-at 1656316586043}
@@ -195,7 +201,7 @@
   :block/updated-at 1655361346388}
  {:block/name "厨房英语",
   :block/created-at 1656383196050,
-  :block/updated-at 1656383699170}
+  :block/updated-at 1656396773666}
  {:block/name "图片链接",
   :block/created-at 1656299343043,
   :block/updated-at 1656299343043}
@@ -208,6 +214,9 @@
  {:block/name "现货etf",
   :block/created-at 1656299342771,
   :block/updated-at 1656299342771}
+ {:block/name "自有渠道",
+  :block/created-at 1656469513922,
+  :block/updated-at 1656469513922}
  {:block/name "营销",
   :block/created-at 1655289960524,
   :block/updated-at 1655289960524}
