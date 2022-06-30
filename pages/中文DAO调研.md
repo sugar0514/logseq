@@ -273,18 +273,7 @@ public:: true
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">个人埋伏机会</p>
 		-
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
-		- **价值输出：**社区凝聚力的根本是不断有看起来很厉害的文章和有利可图的活动
-			- To think：我们可以输出什么非游戏内容？
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
-		- 去年11月底作为链游Hashland的攻略君开设推特，每天高频率发布该游戏的攻略，特点是善于用经济模型进行分析。随后开设TG社区，用于交流该游戏。
-		- 12月底在Hashland游戏中建立公会，是现在DAO的雏形。风格是土豪空投。建会一周之内进行了两次成员空投。每个公会成员至少30U以上。
-		- 1月底由于Hashland币价低迷且游戏处于两赛季之间的过渡期，瓜田开始研究其他游戏，并出了研究League of Kingdoms的第一个视频研究报告《瓜田公会之链游点石成金第一集》。同时宣布公会转型，做成社区聚合型的游戏公会DAO。
-		- 2月11日， Discord开始运营。
-		- 2月19日，开始在Mirror写文章。从此频繁发布项目信息和点评。
-		- 瓜田凭着在GameFi领域的高强度内容输出，不断提升影响力，这期间开始有链游找来合作，在社区进行AMA，为社区提供独家白名单。也有项目向他私人购买经济模型设计和咨询服务。
-		- 与多个DAO进行合作，瓜田为他们的社区提供GameFi板块的研报。对方给DAO的白名单等福利。
-		- 5月初，各大功能组相继建立。内容由瓜田个人产出转型为社区产出为主。
-		- 5月下19日， WGG改名为W Labs。
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
-		- DAO人数目前较少，部分原因是没有进行高强度的营销动作。很多活动和福利也是在DS内部发布，没有在推上宣传。但社区活跃度相当高。算是质量很高的社区。
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
+-
 -
