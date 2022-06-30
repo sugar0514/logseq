@@ -277,6 +277,7 @@ public:: true
 		-
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">可借鉴的营销活动</p>
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">发家史</p>
+		- 成立于5月17日
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 -
 -
