@@ -247,11 +247,11 @@ public:: true
 		- PandaMedia的数据近两周未更新，最近打算升级改版成Panda Insight，建设成WEB3数据分析平台
 		- 社区非常去中心化，一切决策由社区提案并投票决定。资金使用需要9人中的6人多签。
 		- 创始人的推特形象很好，发言都显得格局很大且冷静客观，比如表示在熊市各项目要相互扶持；比如列举了自己冷静决策避免了DAO资金亏损的案例。
-- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> </p>
+- <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00cec9"> Buidler DAO</p>
   background-color:: #793e3e
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
-		- 专注于GameFi领域的处于快速上升期的资讯型DAO，合作可能性较大。
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
+		-
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
 		- Discord人数：2698
 		- Discord活跃度(最近一周平均日聊天数)：>30
 		- Twitter人数：5562
