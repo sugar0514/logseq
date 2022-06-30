@@ -252,23 +252,21 @@ public:: true
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
 		-
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
-		- Discord人数：2698
-		- Discord活跃度(最近一周平均日聊天数)：>30
-		- Twitter人数：5562
-		- Twitter互动数：<10
-		- 官网：无
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">运营支出</p>
-		- 每月管理员及活跃成员会给U奖励
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">盈利方式</p>
-		- 公开：无(分红奖金的来源说是社区沉淀资产的收益)
-		- 推测：游戏项目方付费
+		- Discord人数：
+		- Discord活跃度(最近一周平均日聊天数)：
+		- Twitter人数：
+		- Twitter互动数：
+		- 官网：
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">运营支出</p>
+		-
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">盈利方式</p>
+		- 公开：
+		- 推测：
 			- 依据：
-				- 1. 瓜田本人会给GameFi项目做经济模型设计和咨询，这一块肯定是有营收的。他运营这个社群本身，可以提高他的影响力，从而收取更高的设计费和咨询费。
-				  2. 社群内有多个频道会推荐新游戏及做游戏测评，这可以为游戏引流。明面上官方会给出WL等福利，私底下是否会给瓜田本人利益则未知。
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">社区成员主要激励方式</p>
-		- 贡献者获得特殊角色，参与项目白名单和U的空投
-	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
-		- ⭐⭐⭐⭐⭐ 达成公开合作，在#游戏总兵府 中拥有一个channel
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">社区成员主要激励方式</p>
+		-
+	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">合作机会</p>
+		- ⭐⭐⭐⭐⭐
 			- 服务：
 				- 单独的游戏交流channel
 				- 瓜田白皮书解析及经济模型分析
