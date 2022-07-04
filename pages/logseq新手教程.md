@@ -4,7 +4,8 @@
 		- 1. 注册GitHub
 		  2. 新建public repository
 		  3. 新建GitHub action
-		  4.
+		  4. 选择要发布的页面
+		  5.
 -
 	-
 -
