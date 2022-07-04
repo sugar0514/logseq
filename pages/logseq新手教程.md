@@ -3,7 +3,8 @@
 	- 步骤：
 		- 1. 注册GitHub
 		  2. 新建public repository
-		  3.
+		  3. 新建GitHub action
+		  4.
 -
 	-
 -
