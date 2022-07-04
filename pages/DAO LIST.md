@@ -1,9 +1,9 @@
 - {{renderer :todomaster}}
-- TODO GWG_DAO
-- TODO W Labs 瓜田实验室
-- TODO SnapFinger DAO
-- TODO AllForResearch
-- TODO pandaDAO
+- DONE GWG_DAO
+- DONE W Labs 瓜田实验室
+- DONE SnapFinger DAO
+- DONE AllForResearch
+- DONE pandaDAO
 - TODO 321DAO
 - TODO BankLess DAO
 - TODO IMFI DAO
@@ -13,4 +13,8 @@
 - TODO FTX中文
 - TODO W+
 - TODO CabinDAO
+- TODO OpenDAO
+- TODO BuidlerDAO
+- TODO PeopleDAO
+- TODO CultDAO
 -
