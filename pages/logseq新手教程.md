@@ -1,4 +1,4 @@
 - 如何将logseq笔记原封不动地用网页呈现？
-	- https://zhuanlan.zhihu.com/p/344165645
+	- https://github.com/Kenshin/simpread/discussions/3426 (主要参考)
 	-
 -
