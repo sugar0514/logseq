@@ -19,4 +19,4 @@
 - TODO CultDAO
 - TODO Real-UnknownDAO
 - TODO [GIG DAO](https://twitter.com/gig_dao)
-- https://zlexdl.notion.site/zlexdl/f4aa875aa7be4ccca3918a783c499959
+- TODO https://zlexdl.notion.site/zlexdl/f4aa875aa7be4ccca3918a783c499959
