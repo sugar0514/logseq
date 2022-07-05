@@ -106,7 +106,6 @@ public:: true
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">other notes</p>
 		- 推特运作方式：官方号发布周报和高质量长文，贡献者个人号发布日报和短消息
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> GWG DAO</p>
-  collapsed:: true
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简介</p>
 		- 专注于GameFi领域的资讯型DAO，去年12月成立，是SnapFinger的子社区。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
@@ -129,7 +128,6 @@ public:: true
 		- 加入微信群，投稿链游测评文章，当上研究员
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00cec9"> AllForResearch</p>
   background-color:: #793e3e
-  collapsed:: true
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
 		- 以视频为主的WEB3科普向媒体
 	- <p style="color:#00cec9; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
