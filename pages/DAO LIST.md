@@ -20,3 +20,4 @@
 - TODO Real-UnknownDAO
 - TODO [GIG DAO](https://twitter.com/gig_dao)
 - TODO https://zlexdl.notion.site/zlexdl/f4aa875aa7be4ccca3918a783c499959
+- [MpaceDAO中文社区](https://mirror.xyz/0xa1E0D9FD60e0664A50E0828353fc9ADB6A8eED74)
