@@ -1,9 +1,9 @@
 - {{renderer :todomaster}}
-- DONE GWG_DAO
-- DONE W Labs 瓜田实验室
-- DONE SnapFinger DAO
-- DONE AllForResearch
-- DONE pandaDAO
+- TODO GWG_DAO
+- DONE W Labs 瓜田实验室 [[Jul 6th, 2022]]
+- TODO SnapFinger DAO
+- TODO AllForResearch
+- TODO pandaDAO
 - TODO 321DAO
 - TODO BankLess DAO
 - TODO IMFI DAO
