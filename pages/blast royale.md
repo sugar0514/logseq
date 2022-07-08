@@ -8,4 +8,5 @@
 - 1月7日，过去两周在和VC聊，公布了第二版代币解锁计划 https://blastroyale.medium.com/token-unlock-schedule-update-c544cfc035f8
 - 1月12日，白皮书增加“武器经验”页
 - 1月14日，发布谜题，解谜后可以得到解压密码，打开后是一张游戏的宣传图
+- 1月16日，公布了项目请的三个顾问
 -
