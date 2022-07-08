@@ -12,7 +12,7 @@
   :block/updated-at 1654517542822}
  {:block/name "blast royale",
   :block/created-at 1657191583103,
-  :block/updated-at 1657191605184}
+  :block/updated-at 1657275097840}
  {:block/name "blockchain",
   :block/created-at 1656299342831,
   :block/updated-at 1656554141100}
@@ -92,6 +92,9 @@
   "hls__申克·阿伦斯_-_卡片笔记写作法_如何实现从阅读到写作-人民邮电出版社_(2021)_1657178810409_0",
   :block/created-at 1657179993693,
   :block/updated-at 1657183607615}
+ {:block/name "idea",
+  :block/created-at 1657247484100,
+  :block/updated-at 1657247484100}
  {:block/name "in-progress",
   :block/created-at 1654517542822,
   :block/updated-at 1654517542822}
@@ -107,6 +110,9 @@
  {:block/name "jul 7th, 2022",
   :block/created-at 1657140592557,
   :block/updated-at 1657191583104}
+ {:block/name "jul 8th, 2022",
+  :block/created-at 1657226385677,
+  :block/updated-at 1657247587478}
  {:block/name "jun 10th, 2022",
   :block/created-at 1656299342782,
   :block/updated-at 1656299342782}
@@ -226,7 +232,7 @@
   :block/updated-at 1656299343118}
  {:block/name "v2营销草案",
   :block/created-at 1657178987289,
-  :block/updated-at 1657184168043}
+  :block/updated-at 1657269409717}
  {:block/name "wait",
   :block/created-at 1654517542822,
   :block/updated-at 1654517542822}
@@ -244,7 +250,7 @@
   :block/updated-at 1656557028712}
  {:block/name "《卡片笔记写作法》",
   :block/created-at 1657178639130,
-  :block/updated-at 1657196789814}
+  :block/updated-at 1657276822887}
  {:block/name "七八月停服期运营目标",
   :block/created-at 1656466875445,
   :block/updated-at 1656469516427}
@@ -272,6 +278,9 @@
  {:block/name "厨房英语",
   :block/created-at 1656383196050,
   :block/updated-at 1656557221547}
+ {:block/name "可借鉴",
+  :block/created-at 1657247364034,
+  :block/updated-at 1657247364034}
  {:block/name "心理",
   :block/created-at 1656553802123,
   :block/updated-at 1656553802123}
