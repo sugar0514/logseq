@@ -34,4 +34,4 @@
 - 找了两个加起来20万粉的KOL，一夜间DS粉丝数翻了近五倍
 	- https://twitter.com/blastroyale/status/1501108349567447041?s=20&t=ptKEq3J2heuNdcT3My6adQ
 - 3月9日，4万粉KOL发布BR角色图，互动量<20
--
+- 3月10日，场景路透
