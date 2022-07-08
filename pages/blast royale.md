@@ -6,4 +6,5 @@
 - 12月30日，修改了白皮书，增加了武器复制的设置(逻辑同axie繁衍)
 - 1月5日，白皮书增加了“角色”和“区块链技术”两页
 - 1月7日，过去两周在和VC聊，公布了第二版代币解锁计划 https://blastroyale.medium.com/token-unlock-schedule-update-c544cfc035f8
+- 1月12日，白皮书增加“武器经验”页
 -
