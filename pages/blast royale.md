@@ -35,3 +35,5 @@
 	- https://twitter.com/blastroyale/status/1501108349567447041?s=20&t=ptKEq3J2heuNdcT3My6adQ
 - 3月9日，4万粉KOL发布BR角色图，互动量<20
 - 3月10日，场景路透
+- 3月11日，线上开会图
+- 每周更新一次这周在做什么(不公布)
