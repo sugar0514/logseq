@@ -31,4 +31,6 @@
 - 3月4日，预告3月10日推特SPACE AMA
 - 3月7日，discord成员420
 - 3月8日，DS终于有了500人，扩充OG名额到1500
--
+- 找了两个加起来20万粉的KOL，一夜间DS粉丝数翻了四倍
+	- https://twitter.com/blastroyale/status/1501108349567447041?s=20&t=ptKEq3J2heuNdcT3My6adQ
+	-
