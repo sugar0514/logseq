@@ -106,4 +106,5 @@
 - 6月13日，宣布6月24日进行玩家联盟之间的锦标赛
 - 6月13日，分享活动：用特定武器击败敌人并录屏分享，奖品为NFT白名单
 - 在各类链游类资讯号里曝光： [@Chainplaygg](https://twitter.com/Chainplaygg) [@HCGemAlerts](https://twitter.com/HCGemAlerts) [@Polygon_Space1](https://twitter.com/Polygon_Space1) [@GainsAssociates](https://twitter.com/GainsAssociates)
-- 6月16日，官宣大使项目
+- 6月16日，官宣大使项目(承诺会有奖励，未具体说明) [宣传文章](https://blastroyale.medium.com/blast-ambassador-program-51c556c7555b)
+-
