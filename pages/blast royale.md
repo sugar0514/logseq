@@ -102,4 +102,4 @@
 - 6月9日，DS达到10000人
 - 6月10日，polygon studio转发宣传
 - 6月10日，和RainmakerDAO联合AMA
-- 6月13日，在crypto
+- 6月13日，在cryptoDAKU进行AMA
