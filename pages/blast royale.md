@@ -95,6 +95,7 @@
 - 五月一共官宣了8个合作伙伴
 - 五月一共放出了789个内测名额
 - 6月6日，开始发放NFT白名单
-- 6月7日，和avocadoDAO合作开展锦标赛，奖金1200刀
+- 6月7日，和avocadoDAO合作开展内测锦标赛，奖金1200刀
 - 6月7日，有一百万粉的推特大V[@TheCryptoLark](https://twitter.com/TheCryptoLark)发布了游戏白名单活动的信息
+- 6月8日，和pathDAO合作AMA
 -
