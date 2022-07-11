@@ -105,3 +105,6 @@
 - 6月13日，在cryptoDAKU进行AMA
 - 6月13日，宣布6月24日进行玩家联盟之间的锦标赛
 - 6月13日，分享活动：用特定武器击败敌人并录屏分享，奖品为NFT白名单
+- 在各类链游类资讯号里曝光
+- [@Chainplaygg
+- ](https://twitter.com/Chainplaygg)
