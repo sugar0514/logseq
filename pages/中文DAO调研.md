@@ -13,6 +13,7 @@ public:: true
 - #DAO
 - <p style="color:#FFFFFF; font-size:30px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:50px; background:#00b894"> W Labs 瓜田实验室</p>
   background-color:: #793e3e
+  collapsed:: true
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">简单评价</p>
 		- 专注于GameFi领域的处于快速上升期的资讯型DAO，合作可能性较大。
 	- <p style="color:#00b894; font-size:18px; font-family:SourceHanSansCN-Regular; font-weight:bold; line-height:30px">基础数据</p>
