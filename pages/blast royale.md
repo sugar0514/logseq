@@ -98,4 +98,4 @@
 - 6月7日，和avocadoDAO合作开展内测锦标赛，奖金1200刀
 - 6月7日，有一百万粉的推特大V[@TheCryptoLark](https://twitter.com/TheCryptoLark)发布了游戏白名单活动的信息
 - 6月8日，和pathDAO合作AMA
--
+- 频繁小活动送内测白名单(想名字、转发、画枪、推特互动等)
