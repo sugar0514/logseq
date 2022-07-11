@@ -12,7 +12,7 @@
   :block/updated-at 1654517542822}
  {:block/name "blast royale",
   :block/created-at 1657191583103,
-  :block/updated-at 1657275097840}
+  :block/updated-at 1657508739008}
  {:block/name "blockchain",
   :block/created-at 1656299342831,
   :block/updated-at 1656554141100}
@@ -98,6 +98,9 @@
  {:block/name "in-progress",
   :block/created-at 1654517542822,
   :block/updated-at 1654517542822}
+ {:block/name "jul 11th, 2022",
+  :block/created-at 1657503590691,
+  :block/updated-at 1657503590691}
  {:block/name "jul 4th, 2022",
   :block/created-at 1657071028817,
   :block/updated-at 1657071028817}
