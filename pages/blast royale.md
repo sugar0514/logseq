@@ -99,5 +99,7 @@
 - 6月7日，有一百万粉的推特大V[@TheCryptoLark](https://twitter.com/TheCryptoLark)发布了游戏白名单活动的信息
 - 6月8日，和pathDAO合作AMA
 - 频繁小活动送内测白名单(想名字、转发、画枪、推特互动等)
+- 6月9日，DS达到10000人
 - 6月10日，polygon studio转发宣传
 - 6月10日，和RainmakerDAO联合AMA
+- 6月13日，在crypto
